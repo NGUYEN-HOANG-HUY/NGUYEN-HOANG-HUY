@@ -127,7 +127,6 @@
 
 ## 🧠 Random Dev Quote MeMe
 > “The best error message is the one that never shows up.”  
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 ---
