@@ -112,16 +112,6 @@
 
 
 ---
-## 📊 GitHub Stats
-<div align="center">
-
-![Huy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NGUYEN-HOANG-HUY&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYEN-HOANG-HUY&layout=compact&theme=tokyonight)
-
-</div>
-
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
