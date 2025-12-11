@@ -96,10 +96,18 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 
-### 🔧 **Tools**
+## 🛠️ Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](http
+![GitHub Badge](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
+
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
+</p>
+
+
 
 ---
 ## 📊 GitHub Stats
