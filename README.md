@@ -8,16 +8,24 @@
 
 
 ## 🚀 About Me
-- 🔭 I’m focusing on **Fullstack Web Development + AI Integration + IoT Systems**
-- 🌱 Currently learning **Python AI/ML, Next.js, Node.js, DevOps & Microservices**
-- 💼 Building real-world projects to publish on **GitHub + Vlance**
-- 🎯 Goal: Become a **Fullstack Engineer capable of building SaaS & AI Apps**
-- 💻 Fullstack Developer focusing on **Next.js, Node.js, Python, AI/ML**
-- 🤖 Exploring **AI-powered applications, automation tools, smart IoT devices**
-- 🛠 Currently working on **SaaS products** for real-world deployment
-- 🎯 Goal: Become a **Fullstack + AI Engineer** capable of building production-grade systems
-- 📚 Always improving skills in **DevOps, Cloud, Microservices, MLOps**
+🎓 I am a Fullstack Developer learner with a strong interest in Artificial Intelligence
 
+💻 Passionate about building real-world web applications, APIs, and AI-powered systems
+
+🧠 Long-term mindset: build sustainable systems, not just short-term solutions
+
+
+🔭 I’m focusing on Fullstack Web Development + AI 
+Integration + IoT Systems
+
+🌱 Currently learning Python AI/ML, Next.js, Node.js, DevOps & Microservices
+🌱 Currently learning through hands-on projects and continuous practice
+
+
+💼 Building real-world projects to publish on GitHub + Vlance
+🎯 Goal: Become a Fullstack Engineer capable of building SaaS & AI Apps
+🎯 Goal: Become a Fullstack + AI Engineer capable of building production-grade systems
+🎯 Career goal: Become a Fullstack Developer who can build AI applications for real-world problems, especially in Education (EdTech)
 
 
 ## 🧠 Tech Stack
@@ -38,11 +46,22 @@
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### ⚙️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ### 🔧 Backend  
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -67,14 +86,31 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-### 🤖 AI / Machine Learning / Deep Learning  
+---
+
+
+### 🤖 Artificial Intelligence / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🔬 Machine Learning & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+#### 📊 Data Processing & Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### 👁️ Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### 🧪 Experiment & Research
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+---
+
 
 ### 🛠️ **DevOps / Servers**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -96,10 +132,11 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 
-## 🛠️ Tools
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
 
 
 <p align="left">
@@ -123,6 +160,17 @@
 | Portfolio-WebApp | Web portfolio cá nhân | React, Tailwind, Node.js | [Link](#) |
 | AI Chatbot | Chatbot sử dụng NLP | Python, Flask, TensorFlow | [Link](#) |
 | E-Commerce App | App bán hàng online | React, Redux, Firebase | [Link](#) |
+
+<h2>📌 What I'm Working On</h2>
+<ul>
+  <li>🔹 Fullstack Web Applications (React / Next.js + Node.js)</li>
+  <li>🔹 RESTful APIs & Authentication (JWT)</li>
+  <li>🔹 AI-powered Web Applications</li>
+</ul>
+
+<hr/>
+
+
 
 
 ## 🧠 Random Dev Quote MeMe
