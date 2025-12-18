@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
-<h6 align="center"> 💻 Fullstack Developer | 🤖 AI/ML & IoT,Self-Assimilation Enthusiast | 🌱 Lifelong Learner </h6>
+<h6 align="center"> 💻 Fullstack Developer | 🤖 AI robotis Enthusiast | 🌱 Lifelong Learner </h6>
 
 <h5 align="center">Welcome to my GitHub profile!  
 
