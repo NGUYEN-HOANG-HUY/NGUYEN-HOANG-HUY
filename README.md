@@ -8,7 +8,6 @@
 
 
 ## 🚀 About Me
-## 🚀 About Me
 🎓 I am a university student and Fullstack Developer learner with a strong interest in Artificial Intelligence and IoT.  
 
 💻 I enjoy building real-world web applications, REST APIs, and experimenting with AI-powered features.  
