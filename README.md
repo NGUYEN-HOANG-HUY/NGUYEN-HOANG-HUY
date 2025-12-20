@@ -8,25 +8,29 @@
 
 
 ## 🚀 About Me
-🎓 I am a Fullstack Developer learner with a strong interest in Artificial Intelligence
+## 🚀 About Me
+🎓 I am a university student and Fullstack Developer learner with a strong interest in Artificial Intelligence and IoT.  
 
-💻 Passionate about building real-world web applications, APIs, and AI-powered systems
+💻 I enjoy building real-world web applications, REST APIs, and experimenting with AI-powered features.  
 
-🧠 Long-term mindset: build sustainable systems, not just short-term solutions
+🧠 I focus on learning fundamentals deeply and building sustainable, well-structured systems rather than short-term solutions.  
 
+🔭 Current focus:
+- Fullstack Web Development (Frontend & Backend)
+- AI integration into web applications
+- IoT & system-oriented thinking  
 
-🔭 I’m focusing on Fullstack Web Development + AI 
-Integration + IoT Systems
+🌱 Currently learning:
+- Python for AI/ML  
+- Next.js, Node.js  
+- DevOps fundamentals & Microservices concepts  
 
-🌱 Currently learning Python AI/ML, Next.js, Node.js, DevOps & Microservices
-🌱 Currently learning through hands-on projects and continuous practice
+🛠️ Learning mainly through hands-on projects and continuous practice.  
 
+💼 Actively building personal projects to publish on GitHub and freelancing platforms (Vlance).
 
-💼 Building real-world projects to publish on GitHub + Vlance
-🎯 Goal: Become a Fullstack Engineer capable of building SaaS & AI Apps
-🎯 Goal: Become a Fullstack + AI Engineer capable of building production-grade systems
-🎯 Career goal: Become a Fullstack Developer who can build AI applications for real-world problems, especially in Education (EdTech)
-
+🎯 Career goal:  
+Become a Fullstack Developer capable of building AI-powered applications for real-world problems, especially in Education (EdTech).
 
 ## 🧠 Tech Stack
 
