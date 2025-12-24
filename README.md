@@ -164,7 +164,7 @@ Become a Fullstack Developer capable of building AI-powered applications for rea
 🚀 *Coming soon… building fullstack & AI projects!*
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
-| Portfolio-WebApp | Web portfolio cá nhân | React, Tailwind, Node.js | [Link]([#](http://localhost:5173/)) |
+| Portfolio-WebApp | Web portfolio cá nhân | React, Tailwind, Node.js | [Link](http://localhost:5173/) |
 | AI Chatbot | Chatbot sử dụng NLP | Python, Flask, TensorFlow | [Link](#) |
 | E-Commerce App | App bán hàng online | React, Redux, Firebase | [Link](#) |
 
